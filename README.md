@@ -1,16 +1,15 @@
-## Hi there 👋
+I’m Malaika Ansar, a motivated student and aspiring software developer. I am passionate about learning new technologies, improving my programming skills, and building well-structured practice projects. This repository represents my continuous learning journey and hands-on experience in software development.
 
-<!--
-**malaikaansar/malaikaansar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+C++ – Fundamentals and problem-solving
+C# – Object-oriented programming
+Java – Core programming concepts
+Python – Basic scripting and logic building
+HTML – Web page structure
+CSS – Styling and responsive design
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Technologies
+Git & GitHub – Version control and collaboration
+Visual Studio – C# development
+Visual Studio Code – Web and general programming
+Command Line / Terminal – Git operations and project management
